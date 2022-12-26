@@ -1,0 +1,2 @@
+# UniversalMovingAverage
+For Moving Average
